@@ -1,6 +1,6 @@
 {
   "name": "Package Express",
-  "short_name": "Pkg Express",
+  "short_name": "Package Express",
   "description": "A delivery-driving game: race the clock, earn cash, upgrade your truck, and compete online.",
   "start_url": "./",
   "scope": "./",
